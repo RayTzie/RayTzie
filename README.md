@@ -1,7 +1,5 @@
 
-
-![Screenshot 2024-07-15 102240](https://github.com/user-attachments/assets/e7a7411f-a05c-4ca6-a273-ed47213431e3)
-
+![Screenshot 2024-07-15 102603](https://github.com/user-attachments/assets/30f4b35b-d909-4f6c-ba48-d45630989cbd)
 
 # Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/867397558794977321) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gonzalesraymond31) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reighmond) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-gonzales-230365262)
