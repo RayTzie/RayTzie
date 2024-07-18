@@ -6,4 +6,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](https://open.spotify.com/user/31skzd62l27cyt2vfovobcigyo2y?si=cca25fe1257d484c)
 
 # Code Stats:
-![]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayTzie)](https://github.com/RayTzie/github-readme-stats))
+
