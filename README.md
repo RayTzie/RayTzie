@@ -1,5 +1,4 @@
 
-![Screenshot 2024-07-15 102603](https://github.com/user-attachments/assets/30f4b35b-d909-4f6c-ba48-d45630989cbd)
 
 <h2 align="left">My stack</h2>
 
