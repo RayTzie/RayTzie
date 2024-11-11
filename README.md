@@ -1,4 +1,3 @@
-
 <h2 align="left">My stack</h2>
 
 <div align="left">
@@ -29,19 +28,19 @@
 <h2 align="left">Currently studying</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="blender logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ## Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/867397558794977321) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gonzalesraymond) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reighmond) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-gonzales-230365262)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](https://open.spotify.com/user/31skzd62l27cyt2vfovobcigyo2y?si=cca25fe1257d484c)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raytziie/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-gonzales-230365262)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](https://open.spotify.com/user/31skzd62l27cyt2vfovobcigyo2y?si=cca25fe1257d484c) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@raytziie?is_from_webapp=1&sender_device=pc)
 
 ## Code stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayTzie&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayTzie&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=FFFFFF&hide=none&langs_count=20&bg_color=00000000)
