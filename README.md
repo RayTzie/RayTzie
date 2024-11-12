@@ -43,4 +43,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](https://open.spotify.com/user/31skzd62l27cyt2vfovobcigyo2y?si=cca25fe1257d484c) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@raytziie?is_from_webapp=1&sender_device=pc)
 
 ## Code stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayTzie&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=FFFFFF&hide=none&langs_count=19&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayTzie&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=FFFFFF&hide=none&langs_count=13&bg_color=00000000)
